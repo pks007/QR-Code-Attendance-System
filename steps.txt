@@ -1,0 +1,3 @@
+1. Go to QR code generatot and generate QR for each student
+2.then go to QR code attendence and run the program
+3.Show the barcode in front of the camera 
